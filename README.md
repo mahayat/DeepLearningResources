@@ -1,5 +1,5 @@
 # Deep Learning Papers
-#### Instead of printing and bookmarking the useful papers I use, here I am just creating a list
+#### Instead of printing/downloading/bookmarking the useful papers/articles I find interesting, here I am just creating a list of them
 - [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285) [2016]
 - [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038) [2015]
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) [2015]
