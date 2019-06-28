@@ -1,9 +1,9 @@
 # Deep Learning Papers
-#### Instead of printing/downloading/bookmarking the useful papers/articles I find interesting, here I am just creating a list of them
+#### List of papers I find interesting
 - [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networ) [2012]
-- [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285) [2016]
-- [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038) [2015]
+- [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038) [2014]
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) [2015]
+- [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285) [2016]
 - [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation](https://arxiv.org/abs/1606.06650) [2016]
 
 
