@@ -8,7 +8,8 @@
 - [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima](https://arxiv.org/abs/1609.04836) [2017]
 - [Don't Decay the Learning Rate, Increase the Batch Size](https://arxiv.org/abs/1711.00489) [2017]
 
-
+#### Books
+- [Deep Learning - Ian Goodfellow and Yoshua Bengio](http://www.deeplearningbook.org/)
 
 
 ##### GitHub Markdown Help
