@@ -12,6 +12,8 @@
 
 #### Books
 - [Deep Learning - Ian Goodfellow and Yoshua Bengio](http://www.deeplearningbook.org/)
+- [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+- [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs-lecture.pdf)
 
 #### Websites/Blogs
 - [Nicolas Papernot](https://www.papernot.fr/)
