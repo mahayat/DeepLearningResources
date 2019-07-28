@@ -23,5 +23,8 @@
 - [cleverhans-blog](http://www.cleverhans.io/)
 - [VIP AI 101 CHEATSHEET](http://www.montreal.ai/ai4all.pdf)
 
+#### Videos
+- [CS50 Harvard : Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
+
 ##### GitHub Markdown Help
 - [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
