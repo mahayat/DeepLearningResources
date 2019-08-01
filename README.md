@@ -8,7 +8,7 @@
 - [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285) [2016]
 - [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation](https://arxiv.org/abs/1606.06650) [2016]
 - [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160) [2016]
-- [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
+- [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993) [2017]
 - [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima](https://arxiv.org/abs/1609.04836) [2017]
 - [Don't Decay the Learning Rate, Increase the Batch Size](https://arxiv.org/abs/1711.00489) [2017]
 - [Stronger generalization bounds for deep nets via a compression approach](https://arxiv.org/abs/1802.05296) [2018]
