@@ -21,6 +21,7 @@
 - [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs-lecture.pdf)
 
 #### Websites/Blogs
+- [distill](https://distill.pub/)
 - [Nicolas Papernot](https://www.papernot.fr/)
 - [cleverhans-blog](http://www.cleverhans.io/)
 - [VIP AI 101 CHEATSHEET](http://www.montreal.ai/ai4all.pdf)
