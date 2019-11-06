@@ -16,13 +16,14 @@
 - [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/abs/1905.08233) [2019]
 - [Segmentation of mouse skin layers in optical coherence tomography image data using deep convolutional neural networks](https://doi.org/10.1364/BOE.10.003484) [2019]
 
-#### Books
+#### Books/PDFs
 - [Deep Learning - Ian Goodfellow and Yoshua Bengio](http://www.deeplearningbook.org/)
 - [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 - [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs-lecture.pdf)
 - [Mathematics for Machine Learning - Marc Deisenroth](https://mml-book.github.io/book/mml-book.pdf)
 - [Mathematics for machine Learning - Garrett Thomas](http://gwthomas.github.io/docs/math4ml.pdf)
 - [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528)
+- [VIP AI 101 CHEATSHEET](http://www.montreal.ai/ai4all.pdf)
 
 #### Critique
 - [Deep Learning: A Critical Appraisal](https://arxiv.org/abs/1801.00631)
@@ -32,7 +33,6 @@
 - [Nicolas Papernot](https://www.papernot.fr/)
 - [cleverhans-blog](http://www.cleverhans.io/)
 - [Yufeng G](https://towardsdatascience.com/@yufengg)
-- [VIP AI 101 CHEATSHEET](http://www.montreal.ai/ai4all.pdf)
 
 #### Programming
 - [The Python Standard Library](https://docs.python.org/3/library/)
