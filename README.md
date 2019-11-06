@@ -16,6 +16,12 @@
 - [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/abs/1905.08233) [2019]
 - [Segmentation of mouse skin layers in optical coherence tomography image data using deep convolutional neural networks](https://doi.org/10.1364/BOE.10.003484) [2019]
 
+#### Portals
+- [deeplearning.ai](https://www.deeplearning.ai/)
+- [fast.ai](https://www.fast.ai/)
+- [OpenAI](https://openai.com/)
+- [The Carpentries](https://carpentries.org/)
+
 #### Books/PDFs
 - [Deep Learning - Ian Goodfellow and Yoshua Bengio](http://www.deeplearningbook.org/)
 - [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
@@ -33,6 +39,7 @@
 - [Nicolas Papernot](https://www.papernot.fr/)
 - [cleverhans-blog](http://www.cleverhans.io/)
 - [Yufeng G](https://towardsdatascience.com/@yufengg)
+- [Lil'Log](https://lilianweng.github.io/lil-log/)
 
 #### Programming
 - [The Python Standard Library](https://docs.python.org/3/library/)
@@ -42,8 +49,9 @@
 - [Mining of Massive Datasets](http://mmds.org/)
 - [CS50 Harvard : Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
 
-#### Git/Bash/Others
+#### Git/Bash/HPC/Others
 - [The Linux Command Line](https://wiki.lib.sun.ac.za/images/c/ca/TLCL-13.07.pdf)
+- [SAIL Stanford](https://cs.stanford.edu/csdcf/sail-compute-cluster)
 
 ##### GitHub Markdown Help
 - [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
