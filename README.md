@@ -46,12 +46,20 @@
 - [The Python Language Reference](https://docs.python.org/3/reference/index.html#reference-index)
 
 #### Courses/Videos
+- [Coursera](https://www.coursera.org/)
+- [Lagunita Stanford](https://lagunita.stanford.edu/)
 - [Mining of Massive Datasets](http://mmds.org/)
 - [CS50 Harvard : Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
+- [Ryan Tibshirani, CMU](https://www.stat.cmu.edu/~ryantibs/teaching.html)
 
 #### Git/Bash/HPC/Others
 - [The Linux Command Line](https://wiki.lib.sun.ac.za/images/c/ca/TLCL-13.07.pdf)
 - [SAIL Stanford](https://cs.stanford.edu/csdcf/sail-compute-cluster)
+
+#### UArk
+- [https://git.uark.edu/](UArk GitLab)
+- [https://nebula.uark.edu/](UArk Nebula)
+- [https://its.uark.edu/linkedin-login](LinkedIn Learning)
 
 ##### GitHub Markdown Help
 - [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
