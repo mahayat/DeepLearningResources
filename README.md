@@ -20,6 +20,12 @@
 - [Deep Learning - Ian Goodfellow and Yoshua Bengio](http://www.deeplearningbook.org/)
 - [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 - [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs-lecture.pdf)
+- [Mathematics for Machine Learning - Marc Deisenroth](https://mml-book.github.io/book/mml-book.pdf)
+- [Mathematics for machine Learning - Garrett Thomas](http://gwthomas.github.io/docs/math4ml.pdf)
+- [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528)
+
+#### Critique
+- [Deep Learning: A Critical Appraisal](https://arxiv.org/abs/1801.00631)
 
 #### Websites/Blogs
 - [distill](https://distill.pub/)
