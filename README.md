@@ -39,7 +39,11 @@
 - [The Python Language Reference](https://docs.python.org/3/reference/index.html#reference-index)
 
 #### Courses/Videos
+- [Mining of Massive Datasets](http://mmds.org/)
 - [CS50 Harvard : Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
+
+#### Git/Bash/Others
+- [The Linux Command Line](https://wiki.lib.sun.ac.za/images/c/ca/TLCL-13.07.pdf)
 
 ##### GitHub Markdown Help
 - [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
