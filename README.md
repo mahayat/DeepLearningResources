@@ -31,9 +31,14 @@
 - [distill](https://distill.pub/)
 - [Nicolas Papernot](https://www.papernot.fr/)
 - [cleverhans-blog](http://www.cleverhans.io/)
+- [Yufeng G](https://towardsdatascience.com/@yufengg)
 - [VIP AI 101 CHEATSHEET](http://www.montreal.ai/ai4all.pdf)
 
-#### Videos
+#### Programming
+- [The Python Standard Library](https://docs.python.org/3/library/)
+- [The Python Language Reference](https://docs.python.org/3/reference/index.html#reference-index)
+
+#### Courses/Videos
 - [CS50 Harvard : Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
 
 ##### GitHub Markdown Help
