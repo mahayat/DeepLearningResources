@@ -14,7 +14,7 @@
 - [Don't Decay the Learning Rate, Increase the Batch Size](https://arxiv.org/abs/1711.00489) [2017]
 - [Stronger generalization bounds for deep nets via a compression approach](https://arxiv.org/abs/1802.05296) [2018]
 - [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/abs/1905.08233) [2019]
-- [Segmentation of mouse skin layers in optical coherence tomography image data using deep convolutional neural networks](https://doi.org/10.1364/BOE.10.003484) [2019]
+- [DCU-Net](https://doi.org/10.1364/BOE.10.003484) [2019]
 
 #### Portals
 - [deeplearning.ai](https://www.deeplearning.ai/)
