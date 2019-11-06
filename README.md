@@ -57,9 +57,9 @@
 - [SAIL Stanford](https://cs.stanford.edu/csdcf/sail-compute-cluster)
 
 #### UArk
-- [https://git.uark.edu/](UArk GitLab)
-- [https://nebula.uark.edu/](UArk Nebula)
-- [https://its.uark.edu/linkedin-login](LinkedIn Learning)
+- [UArk GitLab](https://git.uark.edu/)
+- [UArk Nebula](https://nebula.uark.edu/)
+- [LinkedIn Learning](https://its.uark.edu/linkedin-login)
 
 ##### GitHub Markdown Help
 - [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
