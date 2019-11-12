@@ -55,6 +55,7 @@
 #### Git/Bash/HPC/Others
 - [The Linux Command Line](https://wiki.lib.sun.ac.za/images/c/ca/TLCL-13.07.pdf)
 - [SAIL Stanford](https://cs.stanford.edu/csdcf/sail-compute-cluster)
+- [PSU Singularity](https://www.psc.edu/user-resources/software/singularity)
 
 #### UArk
 - [UArk GitLab](https://git.uark.edu/)
