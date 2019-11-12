@@ -21,6 +21,7 @@
 - [deeplearning.ai](https://www.deeplearning.ai/)
 - [fast.ai](https://www.fast.ai/)
 - [OpenAI](https://openai.com/)
+- [DeepAI](https://deepai.org/)
 - [The Carpentries](https://carpentries.org/)
 
 #### Books/PDFs
