@@ -11,7 +11,7 @@
 - [Is object localization for free? – Weakly-supervised learning with convolutional neural networks](https://hal.inria.fr/hal-01015140v2/document)[2015] :pencil2:
 - [From Image-level to Pixel-level Labeling with Convolutional Networks](https://arxiv.org/abs/1411.6228)[2015] :pencil2:
 - [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285) [2016]
-- [CAM](Learning Deep Features for Discriminative Localization)[2016] :pencil2:
+- [CAM](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)[2016] :pencil2:
 - [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation](https://arxiv.org/abs/1606.06650) [2016]
 - [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160) [2016]
 - [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993) [2017]
