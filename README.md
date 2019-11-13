@@ -32,6 +32,7 @@
 
 #### Books/PDFs
 - [Deep Learning - Ian Goodfellow and Yoshua Bengio](http://www.deeplearningbook.org/)
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 - [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs-lecture.pdf)
 - [Mathematics for Machine Learning - Marc Deisenroth](https://mml-book.github.io/book/mml-book.pdf)
