@@ -9,6 +9,7 @@
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) [2015]
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)  [2015]
 - [Is object localization for free? – Weakly-supervised learning with convolutional neural networks](https://hal.inria.fr/hal-01015140v2/document) [2015] :pencil2:
+- [Striving for Simplicity: The All Convolutional Net](https://arxiv.org/abs/1412.6806) [2015]
 - [From Image-level to Pixel-level Labeling with Convolutional Networks](https://arxiv.org/abs/1411.6228) [2015] :pencil2:
 - [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285) [2016]
 - [CAM](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf) [2016] :pencil2:
