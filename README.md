@@ -3,14 +3,19 @@
 - [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networ) [2012] :boom:
 - [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038) [2014]
 - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) [2014]
+- [Representation Learning: A Review and New Perspectives](https://arxiv.org/abs/1206.5538)[2014]
 - [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://arxiv.org/abs/1406.4729)[2014]
 - [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) [2015]
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) [2015]
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167) [2015]
+- [Is object localization for free? – Weakly-supervised learning with convolutional neural networks](https://hal.inria.fr/hal-01015140v2/document)[2015] :pencil2:
+- [From Image-level to Pixel-level Labeling with Convolutional Networks](https://arxiv.org/abs/1411.6228)[2015] :pencil2:
 - [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285) [2016]
+- [CAM](Learning Deep Features for Discriminative Localization)[2016] :pencil2:
 - [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation](https://arxiv.org/abs/1606.06650) [2016]
 - [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160) [2016]
 - [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993) [2017]
+- [Grad-CAM](https://arxiv.org/abs/1610.02391)[2017] :pencil2:
 - [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima](https://arxiv.org/abs/1609.04836) [2017]
 - [Don't Decay the Learning Rate, Increase the Batch Size](https://arxiv.org/abs/1711.00489) [2017]
 - [Stronger generalization bounds for deep nets via a compression approach](https://arxiv.org/abs/1802.05296) [2018]
