@@ -32,6 +32,7 @@
 
 #### Books/PDFs
 - [Deep Learning - Ian Goodfellow and Yoshua Bengio](http://www.deeplearningbook.org/)
+- [Deep learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 - [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs-lecture.pdf)
