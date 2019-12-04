@@ -54,6 +54,7 @@
 #### Programming
 - [The Python Standard Library](https://docs.python.org/3/library/)
 - [The Python Language Reference](https://docs.python.org/3/reference/index.html#reference-index)
+- [multiprocessing](https://pymotw.com/2/multiprocessing/basics.html)
 
 #### Courses/Videos
 - [Coursera](https://www.coursera.org/)
