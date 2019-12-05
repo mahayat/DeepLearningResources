@@ -28,6 +28,7 @@
 - [fast.ai](https://www.fast.ai/)
 - [OpenAI](https://openai.com/)
 - [DeepAI](https://deepai.org/)
+- [ONNX](https://onnx.ai/)
 - [The Carpentries](https://carpentries.org/)
 
 #### Books/PDFs
