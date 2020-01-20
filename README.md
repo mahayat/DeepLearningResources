@@ -20,6 +20,7 @@
 - [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima](https://arxiv.org/abs/1609.04836) [2017]
 - [Don't Decay the Learning Rate, Increase the Batch Size](https://arxiv.org/abs/1711.00489) [2017]
 - [Stronger generalization bounds for deep nets via a compression approach](https://arxiv.org/abs/1802.05296) [2018]
+- [Group Normalization](https://arxiv.org/abs/1803.08494v1) [2018]
 - [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/abs/1905.08233) [2019]
 - [DCU-Net](https://doi.org/10.1364/BOE.10.003484) [2019]
 
